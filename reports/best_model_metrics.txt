@@ -1,0 +1,10 @@
+BEST MODEL METRICS
+============================================================
+Model          : LightGBM (Tuned)
+Accuracy       : 0.6927
+Precision      : 0.6773
+Recall         : 0.7459
+F1 Score       : 0.7099
+ROC AUC        : 0.7601
+Training Time  : 295.8650s
+Prediction Time: 0.0329s
